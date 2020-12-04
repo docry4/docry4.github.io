@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://docry4.github.io</id>
+    <id>https://docry4.github.io/</id>
     <title>docry4</title>
-    <updated>2020-11-27T13:02:38.023Z</updated>
+    <updated>2020-12-04T08:35:29.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://docry4.github.io"/>
+    <link rel="alternate" href="https://docry4.github.io/"/>
     <link rel="self" href="https://docry4.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://docry4.github.io/images/avatar.png</logo>
